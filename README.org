@@ -1,0 +1,1 @@
+Exercises from [[https://leanprover.github.io/logic_and_proof/][Logic and Proof Course]] using Lean Theorem Prover
